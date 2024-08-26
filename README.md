@@ -1,2 +1,2 @@
-# configure-ad
-configure-ad
+# configuring Active Directory
+conf
