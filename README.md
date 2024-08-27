@@ -1,2 +1,2 @@
-# configuring Active Directory
+# Configuring Active Directory
 conf
