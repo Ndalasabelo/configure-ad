@@ -28,7 +28,7 @@ Ensure Connectivity between the client and Domain Controller
 # Create an Admin and Normal User Account in AD
 - In Active Directory Users and Computers (ADUC), create an Organizational Unit (OU) called “_EMPLOYEES”
 - Create a new OU named “_ADMINS”
-- Create a new employee named “Jane Doe” (same password) with the username of “jeff_admin”
+- Create a new employee named “Jeff Bezos” (same password) with the username of “jeff_admin”
 - Add jeff_admin to the “Domain Admins” Security Group
 - Log out/close the Remote Desktop connection to DC-1 and log back in as “mydomain.com\jeff_admin”
 - Use jeff_admin as your admin account from now on
